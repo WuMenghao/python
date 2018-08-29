@@ -3,7 +3,7 @@
 # Author wmh
 # Data 2018/8/26
 
-import virables
+import basicoperations.virables
 
 f1 = open("E:\\Data\\text\\file01.txt", "w+", encoding="utf-8")
 print("Hello", file=f1)
